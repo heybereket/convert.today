@@ -46,18 +46,17 @@ h1 {
   font-size: 1rem;
   margin-bottom: 2rem;
   background: transparent;
-  padding: 15px;
-  padding-right: 100px;
-  margin-right: 20px;
+  padding: 1rem;
   outline: none;
   text-transform: lowercase;
 }
 
 .generate-btn:hover, .generate-btn:focus {
-  background: #222;
-  color: #fff;
   cursor: pointer;
+  background-color: #222;
+  color: #fff;
 }
+
 
 ::-webkit-scrollbar {
   background: transparent;
